@@ -1,0 +1,2 @@
+# part_6
+TL-Python高薪架构就业班系列课程,BZ-AI算法工程师就业班2022年,QF-HTML5大前端面授2022年9月完结版,全栈开发高可扩展，高可维护性“当当书城WebApp”,QY在线-机器学习集训营15期,QY在线-机器学习集训营15期,SQ–软件测试之python自动化测试57期139集,JK-Java进阶训练营6期,动力节点-java就业班2022年,SpringCloud整合Dubbo3实战高并发微服务架构设计,MS兵-Java高级互联网架构师,ITLXJava从小白到入职私房课,Python全栈自动化VIP课程对标大厂标准,2022全新版-Java分布式架构设计与开发实战, HenCoder Plus-Android高级开发瓶颈突破系列课,Python高级软件测试开发7期
